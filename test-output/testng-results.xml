@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Running TC...]]>
+    </line>
+    <line>
+      <![CDATA[Running TC2...]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="272" started-at="2020-12-08T07:13:07Z" finished-at="2020-12-08T07:13:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="272" started-at="2020-12-08T07:13:07Z" finished-at="2020-12-08T07:13:07Z">
+      <class name="TestNG.DisableTCExecutionFromSuite">
+        <test-method status="PASS" signature="TC()[pri:0, instance:TestNG.DisableTCExecutionFromSuite@7dc7cbad]" name="TC" duration-ms="133" started-at="2020-12-08T12:43:07Z" finished-at="2020-12-08T12:43:07Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Running TC...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC -->
+        <test-method status="PASS" signature="TC2()[pri:0, instance:TestNG.DisableTCExecutionFromSuite@7dc7cbad]" name="TC2" duration-ms="11" started-at="2020-12-08T12:43:07Z" finished-at="2020-12-08T12:43:07Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Running TC2...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+      </class> <!-- TestNG.DisableTCExecutionFromSuite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
